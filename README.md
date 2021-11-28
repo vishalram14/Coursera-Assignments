@@ -1,1 +1,1 @@
-Code along assignments as part of HTML, CSS, and Javascript for Web Developers Coursera Course
+Code along assignments as part of "HTML, CSS, and Javascript for Web Developers" Coursera Course by John Hopkins University
